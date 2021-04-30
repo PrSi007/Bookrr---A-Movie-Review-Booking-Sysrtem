@@ -1,0 +1,2 @@
+# Bookrr
+Everyone in today's world loves movies, be it Hollywood, Bollywood, Tollywood etc. We aim to connect the world of cinemas and the public by giving them a platform to get information about the movies and also book tickets of the movie of their choice. This Web application will almost close the gap between the common public and the beautiful world of movies.
