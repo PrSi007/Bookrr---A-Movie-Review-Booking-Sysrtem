@@ -49,7 +49,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
 
 
       <!--Carousel-->
-      <div class="carouselExampleCaptions"  data-bs-ride="carousel">
+      <div class="carouselExampleCaptions"  style = "margin-top:120px" data-bs-ride="carousel">
         <ol class="carousel-indicators">
           <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
           <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></li>
@@ -58,13 +58,13 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="./971275.jpg" class="d-block w-100" alt="...">
+            <img src="./fast.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               
             </div>
           </div>
           <div class="carousel-item">
-            <img src="./wp4714658.jpg" class="d-block w-100" alt="...">
+            <img src="./971275.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               
             </div>
@@ -261,7 +261,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
 
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">© 2021 Copyright:
-          <a href="./index.html">Bookrr.com</a>
+          <a href="./index.php">Bookrr.com</a>
         </div>
 
       </footer>
