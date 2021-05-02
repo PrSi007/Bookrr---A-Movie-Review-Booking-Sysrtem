@@ -49,7 +49,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
 
 
       <!--Carousel-->
-      <div class="carouselExampleCaptions"  style = "margin-top:120px" data-bs-ride="carousel">
+      <div class="carouselExampleCaptions"  style = "margin-top:100px" data-bs-ride="carousel">
         <ol class="carousel-indicators">
           <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
           <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></li>
@@ -100,7 +100,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.</p>
-              <button class="button" onclick="window.location.href=''">Know more</button>
+              <button class="button" onclick="location.href='jl.php'">Know more</button>
             </div>
           </div></a><a class="card" href="#!">
           <div class="front" style="background-image: url(./1079623.jpg)">
@@ -109,7 +109,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>At birth the Black Widow (aka Natasha Romanova) is given to the KGB, which grooms her to become its ultimate operative. When the U.S.S.R. breaks up, the government tries to kill her as the action moves to present-day New York, where she is a freelance operative.</p>
-              <button class="button">Know more</button>
+              <button class="button" onclick="location.href='black.php'">Know more</button>
             </div>
           </div></a><a class="card" href="#!">
           <div class="front" style="background-image: url(./729758.jpg)">
@@ -118,7 +118,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.</p>
-              <button class="button">Know more</button>
+              <button class="button" onclick="location.href='suicide.php'">Know more</button>
             </div>
           </div></a><a class="card" href="#!">
           <div class="front" style="background-image: url(./1021834.jpg)">
@@ -127,7 +127,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins.</p>
-              <button class="button">Know more</button>
+              <button class="button" onclick="location.href='fhome.php'">Know more</button>
             </div>
           </div></a><a class="card" href="#!">
           <div class="front" style="background-image: url(./971275.jpg)">
@@ -136,7 +136,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>After gaining superpowers from a spider bite, Miles Morales protects the city as Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.</p>
-              <button class="button">Know more</button>
+              <button class="button" onclick="location.href='spiderverse.php'">Know more</button>
             </div>
           </div></a><a class="card" href="#!">
           <div class="front" style="background-image: url(./a48120df2ec1c186c259a7adaf7cb1c5.jpg)">
@@ -145,7 +145,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
           <div class="back">
             <div class="font-weight-bold">
               <p>Karikaalan consistently fights to keep the people of Dharavi, a slum in Mumbai, safe from the clutches of mighty politicians and the land mafia don, Hari Dhadha.</p>
-              <button class="button">Know more</button>
+              <button class="button" onclick="location.href='kaala.php'">Know more</button>
             </div>
           </div></a>
       </div><br/><br/>
