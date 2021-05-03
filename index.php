@@ -32,7 +32,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
       <header class="header">
         <nav class="navbar navbar-expand-lg fixed-top py-3">
             <div class="container">
-              <a href="#" class="navbar-brand text-uppercase "><i class="fa fa-film" aria-hidden="true"></i>Bookrr</a>
+              <a href="#" class="navbar-brand text-uppercase "><i class="fa fa-film" aria-hidden="true"></i>ookrr</a>
               <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
               <div id="navbarSupportedContent" class="collapse navbar-collapse">
                   <ul class="navbar-nav ml-auto">
