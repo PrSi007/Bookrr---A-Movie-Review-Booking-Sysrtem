@@ -41,7 +41,7 @@
             </div><br/><br/>
         
             <a class="movie__trailer">
-              <button type="button" class="btn btn-light btn-lg">Book Now</button>
+              <button type="button" class="btn btn-light btn-lg" onclick="location.href='booking.php'">Book Now</button>
             </a>
           </div>
 
