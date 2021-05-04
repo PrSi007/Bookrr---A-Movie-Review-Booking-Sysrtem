@@ -19,7 +19,7 @@
 		.seat {
 			height: 32px;
 			width: 40px;
-			background: #dedee1;
+			background: white;
 			margin: 7px;
 			border-radius: 8px 8px 0 0;
 			box-shadow: 0px 1px 4px #000;
@@ -55,7 +55,7 @@
 		}
 
 		.n1 {
-			background: #dedee1;
+			background: white;
 		}
 
 		.n2 {

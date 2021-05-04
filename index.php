@@ -70,7 +70,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true)
             </div>
           </div>
           <div class="carousel-item">
-            <img src="./729758.jpg" class="d-block w-100" alt="...">
+            <img src="./jhms.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               
             </div>
