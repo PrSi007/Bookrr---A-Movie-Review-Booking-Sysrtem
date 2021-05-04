@@ -84,7 +84,7 @@
 <body>
 	<div class="container">
 		<div class="row">
-			<div class="col-12 d-flex align-items-center notations justify-content-center">
+			<div class="col-11 d-flex align-items-center notations justify-content-center">
 				<div class="notation n1 shadow"></div>
 				<div>
 					<h6>Not Booked</h6>
