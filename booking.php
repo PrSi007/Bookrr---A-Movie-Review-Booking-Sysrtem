@@ -98,12 +98,12 @@
 					<h6>Booked</h6>
 				</div>
 			</div>
-			<div class="col-11 ml-4 my-3">
+			<div class="col-11 ml-8 my-5">
 				<select id="movie" class="form-control shadow">
-					<option value="249">Audi A </option>
-					<option value="249">Audi B </option>
-					<option value="249">Audi C </option>
-					<option value="249">Audi D </option>
+					<option value="249">Audi A <strong><b>( 5:45 p.m )</b></strong></option>
+					<option value="249">Audi B <strong><b>( 6:10 p.m )</b></strong></option>
+					<option value="249">Audi C <strong><b>( 6:30 p.m )</b></strong></option>
+					<option value="249">Audi D <strong><b>( 7:15 p.m )</b></strong></option>
 				</select>
 			</div>
 		</div>
