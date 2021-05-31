@@ -184,7 +184,7 @@
 		</div>
 		<div class="row">
 			<div class="col-6 col-md-4">
-				<button class="btn btn-success py-2 shadow" id="save">Confirm Selected</button>
+				<button class="btn btn-success py-2 shadow" id="save" onclick="window.location.href='paymentinfo.php'">Confirm Selected</button>
 			</div>
 		</div>
 	</div>
@@ -236,16 +236,16 @@
 				return s.id;
 			});
 			switch (userSlectedmovie) {
-				case '100':
+				case '249':
 					localStorage.setItem('movie1Id', dd);
 					break;
-				case '130':
+				case '249':
 					localStorage.setItem('movie2Id', dd);
 					break;
-				case '150':
+				case '249':
 					localStorage.setItem('movie3Id', dd);
 					break;
-				case '180':
+				case '249':
 					localStorage.setItem('movie4Id', dd);
 					break;
 				default:
@@ -262,16 +262,16 @@
 			let selectedMovieInUpdateView;
 			console.log(usm);
 			switch (usm) {
-				case '100':
+				case '249':
 					selectedMovieInUpdateView = 'movie1Id';
 					break;
-				case '130':
+				case '249':
 					selectedMovieInUpdateView = 'movie2Id';
 					break;
-				case '150':
+				case '249':
 					selectedMovieInUpdateView = 'movie3Id';
 					break;
-				case '180':
+				case '249':
 					selectedMovieInUpdateView = 'movie4Id';
 					break;
 				default:
@@ -292,16 +292,16 @@
 
 			let BookedMovie;
 			switch (usm) {
-				case '100':
+				case '249':
 					BookedMovie = 'movie1Booked';
 					break;
-				case '130':
+				case '249':
 					BookedMovie = 'movie2Booked';
 					break;
-				case '150':
+				case '249':
 					BookedMovie = 'movie3Booked';
 					break;
-				case '180':
+				case '249':
 					BookedMovie = 'movie4Booked';
 					break;
 				default:
@@ -327,16 +327,16 @@
 
 			let currntMovie;
 			switch (document.getElementById('movie').value) {
-				case '100':
+				case '249':
 					currntMovie = 'movie1Id';
 					break;
-				case '130':
+				case '249':
 					currntMovie = 'movie2Id';
 					break;
-				case '150':
+				case '249':
 					currntMovie = 'movie3Id';
 					break;
-				case '180':
+				case '249':
 					currntMovie = 'movie4Id';
 					break;
 			}
@@ -344,16 +344,16 @@
 
 			let bookingArray;
 			switch (document.getElementById('movie').value) {
-				case '100':
+				case '249':
 					bookingArray = 'movie1Booked';
 					break;
-				case '130':
+				case '249':
 					bookingArray = 'movie2Booked';
 					break;
-				case '150':
+				case '249':
 					bookingArray = 'movie3Booked';
 					break;
-				case '180':
+				case '249':
 					bookingArray = 'movie4Booked';
 					break;
 			}
