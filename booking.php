@@ -77,6 +77,8 @@
 
 		.btn {
 			background-color:#30C209;
+			margin-left: 53%;
+			width:200%;
 		}
 	</style>
 </head>
@@ -184,7 +186,7 @@
 		</div>
 		<div class="row">
 			<div class="col-6 col-md-4">
-				<button class="btn btn-success py-2 shadow" id="save" onclick="window.location.href='paymentinfo.php'">Confirm Selected</button>
+				<button class="btn btn-success py-2 shadow" id="save" onclick="window.location.href='payment.php'">Confirm Selected</button>
 			</div>
 		</div>
 	</div>
