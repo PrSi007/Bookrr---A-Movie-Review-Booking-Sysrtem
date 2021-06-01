@@ -84,7 +84,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <button class="btn btn-block login-btn mb-4" type="submit">Sign-Up</button>
                 <?php
                 if ($showAlert) {
-                  echo ' <div class="alert alert-success alert-dismissible fade show" role="alert"><strong>You have successfully created an account !!</strong></div>';
+                  echo ' <div class="alert alert-success alert-dismissible fade show" role="alert"><strong>You have successfully created an account !!</strong><br/>Login To : <a href="login.php" class="text-reset">Login</div>';
                 }
 
                 if ($showError) {
