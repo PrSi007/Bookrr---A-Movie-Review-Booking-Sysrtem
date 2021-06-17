@@ -15,18 +15,22 @@ Everyone in today's world loves movies, be it Hollywood, Bollywood, Tollywood et
 
 ## What's Inside 
 
-### Login Page 
+### Login Page
+
 <img src="./readimages/ss1.png" />
 
 ### Home Page
+
 <img src="./readimages/ss2.png" />
 <img src="./readimages/ss3.png" />
 <img src="./readimages/ss4.png" />
 
 ### Description Page
+
 <img src="./readimages/ss5.png" />
 
 ### Seating Arrangement 
+
 <img src="./readimages/ss6.png" /> 
 
 
