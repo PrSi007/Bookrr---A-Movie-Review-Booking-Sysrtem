@@ -13,7 +13,7 @@ Everyone in today's world loves movies, be it Hollywood, Bollywood, Tollywood et
   3. Php , MySql
   4. Razorpay 
 
-## What's Inside 
+## WHAT'S INSIDE 
 
 ## Login Page
 
