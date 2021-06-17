@@ -42,9 +42,9 @@ Everyone in today's world loves movies, be it Hollywood, Bollywood, Tollywood et
 
 ## Credits 
 
-  A. CodePen<br/>
-  B. Javascript-Mastery<br/>
-  C. Ashish Kashyap
+  1. CodePen<br/>
+  2. Javascript-Mastery<br/>
+  3. Ashish Kashyap
   
   
 
